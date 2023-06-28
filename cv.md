@@ -1,5 +1,4 @@
 ### *Andrey Zharkikh*
-
 ***
 #### *Contact info:*
 * ***Location:** Moscow, Russia*
