@@ -28,5 +28,5 @@ ___
 * *Higher School of Economics*
 ___
 ### *Languages*
-***Russian** - native speaker*
-***English** - A2*
+* ***Russian** - native speaker*
+* ***English** - A2*
