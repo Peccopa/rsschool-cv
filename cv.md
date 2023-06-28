@@ -1,32 +1,38 @@
-## *Andrey Zharkikh*
+# *Andrey Zharkikh*
 ___
-### *Contact info:*
+
+# *Contact info:*
 * ***Location:** Moscow, Russia*
 * ***Phone:** +7(916)829-18-96*
 * ***Email:** orbital.logistics@yandex.ru*
 * ***GitHub:** https://github.com/Peccopa*
 ___
 
-### *About Me:*
+## *About Me:*
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra venenatis arcu, sed aliquam ex pretium sit amet. Etiam vulputate orci vel mauris interdum, at aliquet felis rhoncus. Nam posuere dolor non neque pellentesque, ut laoreet sem accumsan. Praesent aliquam mollis nisi, sit amet blandit mauris pretium ut.*
 ___
-### *Skills:*
+
+## *Skills:*
 * *Git/GitHub*
 * *HTML/CSS*
 * *JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous)*
 * *PHP + SQL (Fundamentals)*
 * *Figma, Photoshop, SonyVegas*
 ___
-### *My Latest Works:*
+
+## *My Latest Works:*
 http://f0817755.xsph.ru/
 ___
-### *Code Examples:*
+
+## *Code Examples:*
 `console.log('Hello World!')`
 ___
-### *Education:*
+
+## *Education:*
 * *Moscow City University*
 * *Higher School of Economics*
 ___
-### *Languages*
+
+## *Languages*
 * ***Russian** - native speaker*
 * ***English** - A2*
