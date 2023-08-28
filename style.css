@@ -16,6 +16,13 @@ body {
     color: #ccc;
 }
 
+.page {
+    width: 100%;
+    max-width: 1044px;
+    margin: auto;
+    /* background-color: #e65100; */
+}
+
 /*Container*/
 
 .container {
@@ -402,6 +409,8 @@ video {
 }
 
 .courses__list {
+    display: flex;
+    justify-content: center;
     padding-left: 1.5rem;
     list-style-type: none;
     margin: 1px 0 14px;
