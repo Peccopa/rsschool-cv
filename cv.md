@@ -4,7 +4,7 @@ ___
 
 #### *Contact info:*
 * ***Location:** Moscow, Russia*
-* ***Phone:** +7(916)829-18-96*
+* ***Telegram:** @Bnz1905*
 * ***Email:** orbital.logistics@yandex.ru*
 * ***GitHub:** https://github.com/Peccopa*
 
