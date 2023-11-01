@@ -1,5 +1,5 @@
 ### *Andrey Zharkikh*
-
+######Full-stack Developer
 ___
 
 #### *Contact info:*
@@ -11,20 +11,23 @@ ___
 ___
 
 #### *About Me:*
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra venenatis arcu, sed aliquam ex pretium sit amet. Etiam vulputate orci vel mauris interdum, at aliquet felis rhoncus. Nam posuere dolor non neque pellentesque, ut laoreet sem accumsan. Praesent aliquam mollis nisi, sit amet blandit mauris pretium ut.*
+*Programming has been my favorite hobby for a long time and now it's time to make it my favorite job. I do not know how long it will take, but I don't care, because now I'm doing what I really like and it's awesome!*
 
 ___
 
 #### *Skills:*
-* *Git/GitHub*
-* *HTML/CSS*
-* *JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous)*
+* *HTML/CSS/Git/GitHub*
+* *JavaScript (Fundamentals, ES6+, DOM, OOP)*
 * *PHP + SQL (Fundamentals)*
-* *Figma, Photoshop, SonyVegas*
+* *Figma, Photoshop*
 
 ___
 
 #### *My Latest Works:*
+https://peccopa.github.io/rss-stage-0/random-game/
+https://peccopa.github.io/rss-stage-0/image-gallery/
+https://peccopa.github.io/rss-stage-0/audio-player/
+https://peccopa.github.io/rss-stage-0/library/
 http://f0817755.xsph.ru/
 
 ___
@@ -35,8 +38,9 @@ ___
 ___
 
 #### *Education:*
-* *Moscow City University*
+* *ECP Full-stack Developer*
 * *Higher School of Economics*
+* *Moscow City University*
 
 ___
 
